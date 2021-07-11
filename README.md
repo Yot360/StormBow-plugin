@@ -4,7 +4,7 @@ You can find it on the spigot page:
 
 ## Commands  
 
-### /mastersword  
+### /stormbow <player>  
   Gives the bow to the player.  
   Needs `stormbow.use`
   
